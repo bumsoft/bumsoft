@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on  
 [**PingPongMate** – University table-tennis league management platform](https://pingpongmate.com)  
-[**RealConnect** – Real Estate Property Management Service](https://realconnect.co.kr)
 
 - 🌱 I’m currently learning **DevOps**
 
