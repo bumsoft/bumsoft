@@ -15,6 +15,8 @@
 - **Reference**
   - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
 
+---
+
 ## 🛠 Tech Stack
 
 - **Backend**: Spring Boot, JPA (JPQL, DTO Projection)
