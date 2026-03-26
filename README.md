@@ -4,17 +4,16 @@
 
 ---
 
-## 🔗 Reference
-- 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
+## 🧑‍💻 Background
 
----
+- **SW 마에스트로 17기** (2026.03.25 ~ 현재)  
 
-## 🎓 Education
-**한양대학교 ERICA 컴퓨터학부** (2021 ~ 현재)  
-- 4학년 1학기 재학  
-- **GPA 4.17 / 4.5 (Major 4.38)**
+- **한양대학교 ERICA 컴퓨터학부** (2021 ~ 현재)  
+  - 4학년 1학기 재학  
+  - **GPA 4.17 / 4.5 (Major 4.38)**
 
----
+- **Reference**
+  - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
 
 ## 🛠 Tech Stack
 
