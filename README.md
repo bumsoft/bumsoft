@@ -6,11 +6,8 @@
 
 ## 🧑‍💻 Background
 
-- **SW 마에스트로 17기** (2026.03.25 ~ 현재)  
-
 - **한양대학교 ERICA 컴퓨터학부** (2021 ~ 현재)  
-  - 4학년 1학기 재학  
-  - **GPA 4.17 / 4.5 (Major 4.38)**
+- **SW 마에스트로 17기** (2026.03.25 ~ 현재)  
 
 - **Reference**
   - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
@@ -18,10 +15,10 @@
 ---
 
 ## 🛠 Tech Stack
-
-- **Backend**: Spring Boot, JPA (JPQL, DTO Projection)
-- **Infra**: AWS, Docker, Nginx (Blue/Green Deploy)
-- **DB**: MySQL, Redis (Cache, Rate Limit)
+- **Languages**: C/C++, Java
+- **Backend**: Spring Boot
+- **Infra**: AWS, Docker, Nginx, Kubernetes
+- **DB**: MySQL, Redis
 - **Collab**: Git, GitHub
 
 ---
