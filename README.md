@@ -6,25 +6,24 @@
 
 ## 🧑‍💻 Background
 
-- **한양대학교 ERICA 컴퓨터학부** (2021 ~ 현재)  
-- **SW 마에스트로 17기** (2026.03.25 ~ 현재)  
-
-- **Reference**
-  - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
+> - **한양대학교 ERICA 컴퓨터학부** (2021 ~ 현재)  
+> - **SW 마에스트로 17기** (2026.03.25 ~ 현재)
+> - **Reference**
+>   - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: C/C++, Java
-- **Backend**: Spring Boot
-- **Infra**: AWS, Docker, Nginx, Kubernetes
-- **DB**: MySQL, Redis
-- **Collab**: Git, GitHub
+> - **Languages**: C/C++, Java
+> - **Backend**: Spring Boot
+> - **Infra**: AWS, Docker, Nginx, Kubernetes
+> - **DB**: MySQL, Redis
+> - **Collab**: Git, GitHub
 
 ---
 
 ## 📬 Contact
-- Email: shjb07015@gmail.com
+> - Email: shjb07015@gmail.com
 
 ---
 
