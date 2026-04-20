@@ -26,6 +26,12 @@
 > - Email: shjb07015@gmail.com
 
 ---
+## 🌐 Open Source Contributions
+| 프로젝트 | 기여 내용 | PR |
+|---------|-----------|-----|
+| [Q00/ouroboros](https://github.com/Q00/ouroboros) | Claude Pro 플랜 지원 문서 명확화 | [#460](https://github.com/Q00/ouroboros/pull/460) |
+
+---
 
 ## 🚀 Activities
 
