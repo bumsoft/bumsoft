@@ -14,8 +14,9 @@
 ---
 
 ## 🛠 Tech Stack
-> - **Languages**: C/C++, Java
+> - **Languages**: C/C++, Java, Python, Go
 > - **Backend**: Spring Boot
+> - **AI**: LangChain, LangGraph
 > - **Infra**: AWS, Docker, Nginx, Kubernetes
 > - **DB**: MySQL, Redis
 > - **Collab**: Git, GitHub
