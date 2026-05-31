@@ -28,9 +28,10 @@
 
 ---
 ## 🌐 Open Source Contributions
-| 프로젝트 | 기여 내용 | PR |
-|---------|-----------|-----|
-| [Q00/ouroboros](https://github.com/Q00/ouroboros) | Claude Pro 플랜 지원 문서 명확화 | [#460](https://github.com/Q00/ouroboros/pull/460) |
+| 프로젝트 | 기여 내용 | PR | 상태 |
+|---------|-----------|-----|------|
+| [Q00/ouroboros](https://github.com/Q00/ouroboros) | Claude Pro 플랜 지원 문서 명확화 | [#460](https://github.com/Q00/ouroboros/pull/460) | ✅ Merged |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 세션 경계 메모리 백그라운드 리뷰 트리거 | [#31609](https://github.com/NousResearch/hermes-agent/pull/31609) | 🔄 Open |
 
 ---
 
