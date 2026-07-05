@@ -1,8 +1,4 @@
-# Backend Engineer 신진범
-
-> 사용자 문제를 기술로 해결하고, 실제 서비스로 만드는 백엔드 개발자
-
----
+# 신진범
 
 ## 🧑‍💻 Background
 
@@ -10,8 +6,6 @@
 > - **SW 마에스트로 17기** (2026.03.25 ~ 현재)
 > - **Reference**
 >   - 📝 Blog: [bumsoft.tistory.com](https://bumsoft.tistory.com/)
-
----
 
 ## 🛠 Tech Stack
 > - **Languages**: C/C++, Java, Python, Go
@@ -21,12 +15,9 @@
 > - **DB**: MySQL, Redis
 > - **Collab**: Git, GitHub
 
----
-
 ## 📬 Contact
-> - Email: shjb07015@gmail.com
+> - Email: bumsoft.dev@gmail.com
 
----
 ## 🌐 Open Source Contributions
 
 ### ✅ Merged
@@ -42,7 +33,6 @@
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | feat(memory): trigger background review at session boundaries | [#31609](https://github.com/NousResearch/hermes-agent/pull/31609) |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | fix(gateway): use target user's hermes_home in system unit PATH generation | [#40704](https://github.com/NousResearch/hermes-agent/pull/40704) |
 
----
 
 ## 🚀 Activities
 
@@ -53,13 +43,12 @@
 | 창업동아리 | 개발팀장 | 2025.03 ~ 2025.12 | **APT Note** 플랫폼 개발 |
 | pingpongmate | 개발/운영 | 2025.03 ~ 현재 | 대학생 탁구 대회 플랫폼 개발 및 운영<br>[Instagram](https://www.instagram.com/2030_utt/) · [Service](https://pingpongmate.com) |
 
----
 
 ## 🏆 Awards
 
 | 대회 | 수상 | 역할 | 주최 | 날짜 |
 |------|------|------|------|------|
-| 소프트웨어 개발보안 경진대회 | 🏆 최우수상 (인터넷진흥원장상) + 현장평가 우수상 | 데이터 파이프라인 구축, API 개발, 인프라 구성 | 교육부 외 | 2025.11.27 |
+| 소프트웨어 개발보안 경진대회 | 🏆 최우수상 (인터넷진흥원장상) | 데이터 파이프라인 구축, API 개발, 인프라 구성 | 교육부 외 | 2025.11.27 |
 | SW창업 메이커톤 | 🏆 최우수상 | 아키텍처 설계 및 백엔드 개발 리드 | 한양대 ERICA | 2025.06.25 |
 | HEPC 알고리즘 대회 | 🏆 동상 | - | 한양대 ERICA | 2025.05.19 |
 | SW창업 아이디어톤 | 🏆 최우수상 | 서비스 기획 및 기술 설계 | 한양대 ERICA | 2025.03.30 |
