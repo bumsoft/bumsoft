@@ -16,7 +16,7 @@
 > - **Collab**: Git, GitHub
 
 ## 📬 Contact
-> - Email: bumsoft.dev@gmail.com
+> - Email: shjb07015@gmail.com
 
 ## 🌐 Open Source Contributions
 
